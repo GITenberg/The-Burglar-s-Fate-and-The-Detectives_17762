@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7587
     wikipedia: http://en.wikipedia.org/wiki/Allan_Pinkerton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17762#The-Burglar-s-Fate-and-The-Detectives
 gutenberg_issued: '2006-02-12'
 gutenberg_type: Text
 identifiers:
